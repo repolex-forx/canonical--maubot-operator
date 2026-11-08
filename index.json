@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "maubot-operator",
+  "versions": [
+    {
+      "commit": "0242cf19ae3efd133764176a343e3ca8c2c6017e",
+      "tag": "rev123",
+      "parsed_at": "2026-11-08T04:45:48.448815+00:00"
+    }
+  ]
+}
