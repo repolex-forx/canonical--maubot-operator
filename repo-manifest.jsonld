@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/maubot-operator/commit/0242cf19ae3efd133764176a343e3ca8c2c6017e",
       "git:hexsha": "0242cf19ae3efd133764176a343e3ca8c2c6017e",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "rev123"
     },
     {
